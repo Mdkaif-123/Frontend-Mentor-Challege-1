@@ -14,18 +14,16 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### Screenshot
 
-![Screenshot](https://asset.cloudinary.com/dngfmzv2g/7be8d0fcbcf25e9d7377ebe8987c9f1d)
+![Screenshot](./public/images/sc1.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Github Repository](https://github.com/Mdkaif-123/Frontend-Mentor-Challege-1)
+- Live Site URL: [Live Link](https://frontend-mentor-challege-1.vercel.app/)
 
 ## My process
 
@@ -48,9 +46,9 @@ Through completing the Frontend Mentor challenge where I built a QR code page us
 
 ## Author
 
-- Website - [Md Kaif Ansari](https://www.your-site.com)
-- Frontend Mentor - [@Mdkaif-123](https://www.frontendmentor.io/profile/Mdkaif-123)
-- Twitter - [@MdKaifA16697201](https://twitter.com/MdKaifA16697201)
+- My LinkedIn - [Md Kaif Ansari](https://www.linkedin.com/in/md-kaif-ansari/)
+- My Frontend Mentor Profile - [@Mdkaif-123](https://www.frontendmentor.io/profile/Mdkaif-123)
+- My Twitter - [@MdKaifA16697201](https://twitter.com/MdKaifA16697201)
 
 ## Acknowledgments
 
